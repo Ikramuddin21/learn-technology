@@ -1,0 +1,65 @@
+[
+    {
+        "id": 1,
+        "name": "JavaScript advanced",
+        "img": "https://i.ibb.co/mJnYCxF/rsz-19199360.jpg",
+        "price": 305,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit ducimus et minus perferendis modi odio consequatur eos aliquid error rerum ut repudiandae dolores expedita, quas dignissimos deleniti est atque doloribus omnis! Porro vero libero dolores!"
+    },
+    {
+        "id": 2,
+        "name": "React Js",
+        "img": "https://i.ibb.co/QjYPNcj/rsz-lautaro-andreani-uysbcu9rp3y-unsplash.jpg",
+        "price": 299,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit ducimus et minus perferendis modi odio consequatur eos aliquid error rerum ut repudiandae dolores expedita, quas dignissimos deleniti est atque doloribus omnis! Porro vero libero dolores!"
+    },
+    {
+        "id": 3,
+        "name": "Node Js",
+        "img": "https://i.ibb.co/V9Tt3vn/rsz-1nodejs-wallpaper-1-0.png",
+        "price": 423,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit ducimus et minus perferendis modi odio consequatur eos aliquid error rerum ut repudiandae dolores expedita, quas dignissimos deleniti est atque doloribus omnis! Porro vero libero dolores!"
+    },
+    {
+        "id": 4,
+        "name": "Machine learning",
+        "img": "https://i.ibb.co/7gV0qVf/rsz-3joan-gamell-xmz4gdap9g0-unsplash.jpg",
+        "price": 475,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit ducimus et minus perferendis modi odio consequatur eos aliquid error rerum ut repudiandae dolores expedita, quas dignissimos deleniti est atque doloribus omnis! Porro vero libero dolores!"
+    },
+    {
+        "id": 5,
+        "name": "Web Design",
+        "img": "https://i.ibb.co/zfKn3Jt/rsz-10717-brutalist-and-minimalist-web-design.png",
+        "price": 181,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit ducimus et minus perferendis modi odio consequatur eos aliquid error rerum ut repudiandae dolores expedita, quas dignissimos deleniti est atque doloribus omnis! Porro vero libero dolores!"
+    },
+    {
+        "id": 6,
+        "name": "Java programming",
+        "img": "https://i.ibb.co/Tv65zmQ/rsz-1java.jpg",
+        "price": 285,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit ducimus et minus perferendis modi odio consequatur eos aliquid error rerum ut repudiandae dolores expedita, quas dignissimos deleniti est atque doloribus omnis! Porro vero libero dolores!"
+    },
+    {
+        "id": 7,
+        "name": "Android Development",
+        "img": "https://i.ibb.co/KjNwPcp/rsz-1caspar-camille-rubin-89xup-xmyra-unsplash.jpg",
+        "price": 411,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit ducimus et minus perferendis modi odio consequatur eos aliquid error rerum ut repudiandae dolores expedita, quas dignissimos deleniti est atque doloribus omnis! Porro vero libero dolores!"
+    },
+    {
+        "id": 8,
+        "name": "Python",
+        "img": "https://i.ibb.co/ssMBNTB/rsz-1python-developer.jpg",
+        "price": 501,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit ducimus et minus perferendis modi odio consequatur eos aliquid error rerum ut repudiandae dolores expedita, quas dignissimos deleniti est atque doloribus omnis! Porro vero libero dolores!"
+    },
+    {
+        "id": 9,
+        "name": "PHP Development",
+        "img": "https://i.ibb.co/M6ZpMzg/rsz-istockphoto-1297752994-170667a.jpg",
+        "price": 246,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit ducimus et minus perferendis modi odio consequatur eos aliquid error rerum ut repudiandae dolores expedita, quas dignissimos deleniti est atque doloribus omnis! Porro vero libero dolores!"
+    }
+]
