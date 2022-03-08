@@ -1,9 +1,9 @@
 [
     {
         "id": 1,
-        "name": "JavaScript advanced",
-        "img": "https://i.ibb.co/mJnYCxF/rsz-19199360.jpg",
-        "price": 305,
+        "name": "Web Design",
+        "img": "https://i.ibb.co/zfKn3Jt/rsz-10717-brutalist-and-minimalist-web-design.png",
+        "price": 181,
         "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit ducimus et minus perferendis modi odio consequatur eos aliquid error rerum ut repudiandae dolores expedita, quas dignissimos deleniti est atque doloribus omnis! Porro vero libero dolores!"
     },
     {
@@ -29,9 +29,9 @@
     },
     {
         "id": 5,
-        "name": "Web Design",
-        "img": "https://i.ibb.co/zfKn3Jt/rsz-10717-brutalist-and-minimalist-web-design.png",
-        "price": 181,
+        "name": "JavaScript advanced",
+        "img": "https://i.ibb.co/mJnYCxF/rsz-19199360.jpg",
+        "price": 305,
         "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit ducimus et minus perferendis modi odio consequatur eos aliquid error rerum ut repudiandae dolores expedita, quas dignissimos deleniti est atque doloribus omnis! Porro vero libero dolores!"
     },
     {

@@ -8,7 +8,7 @@ import { faShoppingBasket } from '@fortawesome/free-solid-svg-icons'
 
 const Header = () => {
     return (
-        <Navbar bg="light" expand="lg">
+        <Navbar bg="light" expand="lg" sticky="top">
             <Container>
                 <Navbar.Brand href="#home">
                     <img src={logo} className="d-inline-block align-top" alt="Logo" width='100' />
@@ -19,7 +19,6 @@ const Header = () => {
                         <Link className='nav-link' to="/home">Home</Link>
                         <Link className='nav-link' to="/about">About</Link>
                         <Link className='nav-link' to="/services">Our Services</Link>
-                        <Link className='nav-link' to="/courses">Our Services</Link>
                     </Nav>
                     <Nav>
                         <Link className='nav-link me-2 fs-5' to="/cart">
