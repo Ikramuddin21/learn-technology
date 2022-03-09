@@ -1,12 +1,14 @@
-import React from 'react';
+import React, { useContext } from 'react';
 import { Container, Nav, Navbar, Button } from 'react-bootstrap';
 import { Link } from 'react-router-dom';
 import logo from '../../images/logo.png';
 import './Header.css';
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { faShoppingBasket } from '@fortawesome/free-solid-svg-icons'
+import { FaCartArrowDown } from "react-icons/fa";
+import { ServicesContext } from '../../App';
 
 const Header = () => {
+    const { carts } = useContext(ServicesContext);
+    const [cart] = carts;
     return (
         <Navbar bg="light" expand="lg" sticky="top">
             <Container>
@@ -22,8 +24,8 @@ const Header = () => {
                     </Nav>
                     <Nav>
                         <Link className='nav-link me-2 fs-5' to="/cart">
-                            <FontAwesomeIcon icon={faShoppingBasket} />
-                            <span>0</span>
+                            <FaCartArrowDown />
+                            <span className='text-primary fw-bold'>{cart.length}</span>
                         </Link>
 
                         <Link className='nav-link me-2' to="/contact">

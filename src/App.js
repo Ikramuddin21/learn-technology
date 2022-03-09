@@ -7,10 +7,22 @@ import Footer from './components/Footer/Footer';
 import About from './components/About/About';
 import Service from './components/Service/Service';
 import NotFound from './components/NotFound/NotFound';
+import { createContext, useEffect, useState } from 'react';
+
+export const ServicesContext = createContext({});
 
 function App() {
+  const [services, setServices] = useState([]);
+  const [cart, setCart] = useState([]);
+
+    useEffect(() => {
+        fetch('./data.json')
+            .then(res => res.json())
+            .then(data => setServices(data))
+    }, []);
+    
   return (
-    <div className="App">
+    <ServicesContext.Provider value={{useServices: [services, setServices], carts: [cart, setCart]}}>
       <BrowserRouter>
         <Header />
         <Routes>
@@ -24,7 +36,7 @@ function App() {
         </Routes>
         <Footer />
       </BrowserRouter>
-    </div>
+    </ServicesContext.Provider>
   );
 }
 
