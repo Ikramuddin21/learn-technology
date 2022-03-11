@@ -18,7 +18,7 @@ const Services = () => {
     
     return (
         <div className="services py-5">
-            <Row sm={1} md={2} lg={3} xl={4} className='container g-3 mx-auto'>
+            <Row xs={1} sm={1} md={2} xl={3} xxl={4} className='container g-4 mx-auto'>
                 {
                     services.slice(0, 4).map(service => <Service
                         key={service.id}

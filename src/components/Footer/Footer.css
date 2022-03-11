@@ -1,0 +1,8 @@
+.custom-hover {
+    margin: auto;
+    width: fit-content;
+}
+
+.custom-hover:hover {
+    color: blue !important;
+}
