@@ -1,25 +1,25 @@
 import React, { useContext } from 'react';
 import { Row } from 'react-bootstrap';
 import { ServicesContext } from '../../App';
-import Service from '../Service/Service';
-import './Services.css';
+import ShowAllService from './ShowAllService';
 
-const Services = () => {
+const AllServices = () => {
 
     const {services, carts} = useContext(ServicesContext);
     const [cart, setCart] = carts;
 
-    // add to cart 
+    // handle add to cart
     const handleAddToCart = service => {
         const newCart = [...cart, service];
         setCart(newCart);
     };
-    
+
     return (
-        <div className="services py-5">
-            <Row xs={1} sm={1} md={2} xl={3} xxl={4} className='container g-4 mx-auto'>
+        <div className='container my-5'>
+            <h1 className='text-center text-primary mb-5'>All Services Here</h1>
+            <Row xs={1} md={2} lg={3} className="g-4">
                 {
-                    services.slice(0, 4).map(service => <Service
+                    services.map(service => <ShowAllService
                         key={service.id}
                         service={service}
                         handleAddToCart={handleAddToCart}
@@ -30,4 +30,4 @@ const Services = () => {
     );
 };
 
-export default Services;
+export default AllServices;

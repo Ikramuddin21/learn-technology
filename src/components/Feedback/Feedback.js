@@ -7,7 +7,7 @@ const Feedback = () => {
             <div className="container text-center">
                 <div className='w-50 mx-auto'>
                     <h2>We always try to understand the expectations of the students</h2>
-                    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quaerat repellat quibusdam corrupti accusamus, nemo unde corporis temporibus assumenda ipsam hic ab minus laudantium aspernatur. Praesentium illo a eos expedita nulla?</p>
+                    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quaerat repellat quibusdam corrupti accusamus, nemo unde corporis temporibus assumenda ipsam hic ab minus laudantium aspernatur. Praesentium illo a eos expedita.</p>
                 </div>
 
                 <div className='d-flex justify-content-center align-items-center flex-wrap mt-5'>

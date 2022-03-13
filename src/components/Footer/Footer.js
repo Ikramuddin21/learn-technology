@@ -17,16 +17,16 @@ const Footer = () => {
             <div className="container py-5">
                 <div className='row'>
                     <div className='col-md-6 col-sm-12 logo-area mt-4'>
-                        <img src={logo} alt="Logo" width='100' />
+                        <Link to='/home'><img src={logo} alt="Logo" width='100' /></Link>
                         <p className='w-75 mx-auto'>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Accusantium architecto quidem provident repellat natus quisquam perferendis temporibus, facilis culpa suscipit velit repellendus, dolores omnis cum dolore maxime vero voluptatibus labore eum fugit eos animi? Doloribus labore quo praesentium dolorem velit hic maxime sed.</p>
                     </div>
 
                     <Nav className="col-md-3 col-sm-6 flex-column">
-                        <Link className='nav-link mt-2 text-white fs-5 custom-hover' to="/home">Home</Link>
-                        <Link className='nav-link mt-2 text-white fs-5 custom-hover' to="/about">About</Link>
-                        <Link className='nav-link mt-2 text-white fs-5 custom-hover' to="/services">Our Services</Link>
-                        <Link className='nav-link mt-2 text-white fs-5 custom-hover' to='/contact'>Contact us</Link>
-                        <Link className='nav-link mt-2 text-white fs-5 custom-hover' to='/signin'>Sign in</Link>
+                        <Link className='nav-link mt-3 text-white custom-hover' to="/home">Home</Link>
+                        <Link className='nav-link mt-1 text-white custom-hover' to="/about">About</Link>
+                        <Link className='nav-link mt-1 text-white custom-hover' to="/services">Our Services</Link>
+                        <Link className='nav-link mt-1 text-white custom-hover' to='/contact'>Contact us</Link>
+                        <Link className='nav-link mt-1 text-white custom-hover' to='/signin'>Sign in</Link>
                     </Nav>
                     
                     <ul className='col-md-3 col-sm-6 media-icons list-unstyled'>

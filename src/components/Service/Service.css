@@ -1,6 +1,5 @@
 .service {
     transition: 0.4s all;
-    /* width: 300px; */
 }
 
 .service:hover {

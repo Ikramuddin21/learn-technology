@@ -12,9 +12,9 @@ const Service = (props) => {
             <Card className='service'>
                 <Card.Img variant="top" src={img} />
                 <Card.Body>
-                    <Card.Title className='fs-4 fw-bolder'>{name}</Card.Title>
+                    <Card.Title className='fs-4'>{name}</Card.Title>
                     <Card.Text>
-                        {description}
+                        {description.split(' ').slice(0, 23).join(' ')}
                     </Card.Text>
                     <Card.Text className='fs-5 text-primary fw-bolder d-flex justify-content-between'>
                         <span>${price}</span>

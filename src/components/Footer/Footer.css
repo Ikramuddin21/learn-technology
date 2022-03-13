@@ -1,6 +1,7 @@
 .custom-hover {
     margin: auto;
     width: fit-content;
+    transition: all 0.4s;
 }
 
 .custom-hover:hover {

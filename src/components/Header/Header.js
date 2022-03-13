@@ -12,12 +12,14 @@ const Header = () => {
     return (
         <Navbar bg="light" expand="lg" sticky="top">
             <Container>
-                <Navbar.Brand href="#home">
-                    <img src={logo} className="d-inline-block align-top" alt="Logo" width='100' />
-                </Navbar.Brand>
+                <Nav>
+                    <Link to="/home">
+                        <img src={logo} className="d-inline-block align-top" alt="Logo" width='100' />
+                    </Link>
+                </Nav>
                 <Navbar.Toggle aria-controls="navbarScroll" />
-                <Navbar.Collapse id="navbarScroll" className=''>
-                    <Nav className="me-auto my-2 my-lg-0" navbarScroll>
+                <Navbar.Collapse id="navbarScroll">
+                    <Nav className="me-auto my-2 my-lg-0 ms-3" navbarScroll>
                         <Link className='nav-link' to="/home">Home</Link>
                         <Link className='nav-link' to="/about">About</Link>
                         <Link className='nav-link' to="/services">Our Services</Link>
