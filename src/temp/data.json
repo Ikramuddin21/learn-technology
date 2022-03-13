@@ -97,6 +97,14 @@
             "company": "Asimiline",
             "email": "conniebritt@asimiline.com",
             "img": "https://i.ibb.co/XXnVsrr/about4.jpg"
+          },
+          {
+            "id": "5",
+            "name": "Kane Rollins",
+            "age": 42,
+            "company": "Equicom",
+            "email": "kanerollins@equicom.com",
+            "img": "https://i.ibb.co/pwtVmn1/photo-1600732235916-8b00410186ca.jpg"
           }
     ]
 }

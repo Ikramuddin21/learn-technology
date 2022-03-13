@@ -2,7 +2,6 @@ import React from 'react';
 import img from '../../images/hero.png';
 import { useNavigate } from 'react-router-dom';
 import { Button } from 'react-bootstrap';
-import './Hero.css';
 
 const Hero = () => {
 
@@ -17,7 +16,7 @@ const Hero = () => {
             <div className="container">
                 <div className='row align-items-center'>
                     <div className='col-md-5 py-4 text-white'>
-                        <h1 className='hero-title'>Our services are available <span className="text-warning">world wide</span></h1>
+                        <h1 className='display-4 lh-base'>Our services are available <span className="text-warning">world wide</span></h1>
                         <p className='lh-lg'>Lorem, ipsum dolor sit amet consectetur necessitatibus! is adadipisicing Voluptat exercitationem non eveniet vero, asperiores deser expedita esse nisi reprehenderit.</p>
                         <Button
                             variant="primary"

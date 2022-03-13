@@ -2,7 +2,6 @@ import React, { useContext } from 'react';
 import { Container, Nav, Navbar, Button } from 'react-bootstrap';
 import { Link } from 'react-router-dom';
 import logo from '../../images/logo.png';
-import './Header.css';
 import { FaCartArrowDown } from "react-icons/fa";
 import { ServicesContext } from '../../App';
 
@@ -34,8 +33,8 @@ const Header = () => {
                             <Button variant="outline-success">Contact us</Button>
                         </Link>
 
-                        <Link className='nav-link' to="/signin">
-                            <Button variant="primary">Sign in</Button>
+                        <Link className='nav-link' to="/login">
+                            <Button variant="primary">Log in</Button>
                         </Link>
                     </Nav>
                 </Navbar.Collapse>

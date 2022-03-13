@@ -10,6 +10,8 @@ import { createContext, useState } from 'react';
 import data from './temp/data.json';
 import AllServices from './components/AllServices/AllServices';
 import Cart from './components/Cart/Cart';
+import Contact from './components/Contact/Contact';
+import Login from './components/Login/Login';
 
 export const ServicesContext = createContext({});
 
@@ -27,7 +29,8 @@ function App() {
           <Route path='/about' element={<About />} />
           <Route path='/services' element={<AllServices />} />
           <Route path='/cart' element={<Cart />} />
-          {/* <Route path='/contact' element={<About />} /> */}
+          <Route path='/contact' element={<Contact />} />
+          <Route path='/login' element={<Login />} />
           <Route path='*' element={<NotFound />} />
         </Routes>
         <Footer />
