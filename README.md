@@ -1,4 +1,4 @@
-#learn-technology
+# learn-technology
 
 This is an educational training project where courses can be purchased and different programming languages can be learned
 
