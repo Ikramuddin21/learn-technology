@@ -2,7 +2,7 @@
 
 This is an educational training project where courses can be purchased and different programming languages can be learned
 
-Using topic
+## Using topic
 
 - CSS
 - Bootstrap
@@ -11,5 +11,5 @@ Using topic
 - React router dom
 - Context api
 
-Live
+## Live
 Open [https://learn-technology-pj.netlify.app/](https://learn-technology-pj.netlify.app/) to view it in your browser.
