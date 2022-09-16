@@ -1,0 +1,253 @@
+{
+  "servicesData": [
+    {
+      "id": 1,
+      "name": "Web Design",
+      "img": "https://i.ibb.co/zfKn3Jt/rsz-10717-brutalist-and-minimalist-web-design.png",
+      "price": 181,
+      "enroll": 10,
+      "mentor": "Ava Fuller",
+      "mentorImg": "https://i.ibb.co/BykgPqJ/43.jpg",
+      "rating": 3,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit ducimus et minus perferendis modi odio consequatur eos aliquid error rerum ut repudiandae dolores expedita, quas dignissimos deleniti est atque doloribus omnis! Porro vero libero dolores!"
+    },
+    {
+      "id": 2,
+      "name": "React Js",
+      "img": "https://i.ibb.co/QjYPNcj/rsz-lautaro-andreani-uysbcu9rp3y-unsplash.jpg",
+      "price": 299,
+      "enroll": 9,
+      "mentor": "Daniel Craig",
+      "mentorImg": "https://i.ibb.co/QptfvV2/40.jpg",
+      "rating": 2,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit ducimus et minus perferendis modi odio consequatur eos aliquid error rerum ut repudiandae dolores expedita, quas dignissimos deleniti est atque doloribus omnis! Porro vero libero dolores!"
+    },
+    {
+      "id": 3,
+      "name": "Node Js",
+      "img": "https://i.ibb.co/V9Tt3vn/rsz-1nodejs-wallpaper-1-0.png",
+      "price": 423,
+      "enroll": 13,
+      "mentor": "John Khan",
+      "mentorImg": "https://i.ibb.co/fxLrf22/61.jpg",
+      "rating": 5,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit ducimus et minus perferendis modi odio consequatur eos aliquid error rerum ut repudiandae dolores expedita, quas dignissimos deleniti est atque doloribus omnis! Porro vero libero dolores!"
+    },
+    {
+      "id": 4,
+      "name": "Machine learning",
+      "img": "https://i.ibb.co/7gV0qVf/rsz-3joan-gamell-xmz4gdap9g0-unsplash.jpg",
+      "price": 475,
+      "enroll": 5,
+      "mentor": "Jackson Franks",
+      "mentorImg": "https://i.ibb.co/BBX7qtR/31.jpg",
+      "rating": 1,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit ducimus et minus perferendis modi odio consequatur eos aliquid error rerum ut repudiandae dolores expedita, quas dignissimos deleniti est atque doloribus omnis! Porro vero libero dolores!"
+    },
+    {
+      "id": 5,
+      "name": "JavaScript advanced",
+      "img": "https://i.ibb.co/mJnYCxF/rsz-19199360.jpg",
+      "price": 305,
+      "enroll": 6,
+      "mentor": "Harry watsan",
+      "mentorImg": "https://i.ibb.co/wJzn7V3/28.jpg",
+      "rating": 3,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit ducimus et minus perferendis modi odio consequatur eos aliquid error rerum ut repudiandae dolores expedita, quas dignissimos deleniti est atque doloribus omnis! Porro vero libero dolores!"
+    },
+    {
+      "id": 6,
+      "name": "Java programming",
+      "img": "https://i.ibb.co/Tv65zmQ/rsz-1java.jpg",
+      "price": 285,
+      "enroll": 13,
+      "mentor": "Ava Fuller",
+      "mentorImg": "https://i.ibb.co/BykgPqJ/43.jpg",
+      "rating": 4,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit ducimus et minus perferendis modi odio consequatur eos aliquid error rerum ut repudiandae dolores expedita, quas dignissimos deleniti est atque doloribus omnis! Porro vero libero dolores!"
+    },
+    {
+      "id": 7,
+      "name": "Android Development",
+      "img": "https://i.ibb.co/KjNwPcp/rsz-1caspar-camille-rubin-89xup-xmyra-unsplash.jpg",
+      "price": 411,
+      "enroll": 17,
+      "mentor": "Daniel Craig",
+      "mentorImg": "https://i.ibb.co/QptfvV2/40.jpg",
+      "rating": 3,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit ducimus et minus perferendis modi odio consequatur eos aliquid error rerum ut repudiandae dolores expedita, quas dignissimos deleniti est atque doloribus omnis! Porro vero libero dolores!"
+    },
+    {
+      "id": 8,
+      "name": "Python",
+      "img": "https://i.ibb.co/ssMBNTB/rsz-1python-developer.jpg",
+      "price": 501,
+      "enroll": 8,
+      "mentor": "John Khan",
+      "mentorImg": "https://i.ibb.co/fxLrf22/61.jpg",
+      "rating": 1,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit ducimus et minus perferendis modi odio consequatur eos aliquid error rerum ut repudiandae dolores expedita, quas dignissimos deleniti est atque doloribus omnis! Porro vero libero dolores!"
+    },
+    {
+      "id": 9,
+      "name": "PHP Development",
+      "img": "https://i.ibb.co/M6ZpMzg/rsz-istockphoto-1297752994-170667a.jpg",
+      "price": 246,
+      "enroll": 11,
+      "mentor": "Jackson Franks",
+      "mentorImg": "https://i.ibb.co/BBX7qtR/31.jpg",
+      "rating": 4,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit ducimus et minus perferendis modi odio consequatur eos aliquid error rerum ut repudiandae dolores expedita, quas dignissimos deleniti est atque doloribus omnis! Porro vero libero dolores!"
+    }
+  ],
+
+  "accordionsData": [
+    {
+      "id": 1,
+      "heading": "Multiple Platforms Supported for Teaching & Studying",
+      "description": "MaxCoach supports the act of teaching and learning on multiple platforms like online or offline via material downloads. We know things aren’t supposed to be devoured in a short time, you can always access our knowledge base from any device."
+    },
+    {
+      "id": 2,
+      "heading": "Multiple Course Participation at the Same Time",
+      "description": "Study for a number of courses at the same time is possible as long as you can afford the fee and time for completing them in the proper time. Learn at your own desired timeline and timetable. Maximum up to 5 course at a time for a learner at MaxCoach."
+    },
+    {
+      "id": 3,
+      "heading": "Track Study Progress & Deliver Prompt Feedback",
+      "description": "It’s not just a normal thing to be able to build such a solid online educational system like MaxCoach where your progress is easily tracked and feedback is properly delivered. We promise to keep improving our system for better stability and flexibility."
+    }
+  ],
+
+  "featuresData": [
+    {
+      "id": 1,
+      "title": "Access from anywhere",
+      "img": "images/featured/feature1.png"
+    },
+    {
+      "id": 2,
+      "title": "Best online mentors",
+      "img": "images/featured/feature2.png"
+    },
+    {
+      "id": 3,
+      "title": "Ready for next step",
+      "img": "images/featured/feature3.png"
+    }
+  ],
+
+  "reviews": [
+    {
+      "id": 1,
+      "name": "Herry San",
+      "address": "London",
+      "message": "Ipsum lorem sit amet consectetur adipisicing elit. In qui delectus fugiat? Repellat sequi dignissimos, necessitatibus deleniti autem vitae, harum atque minima qui natus perferendis eligendi beatae magnam voluptates aliquid ut est nesciunt ipsum molestiae. Dolores vitae quis incidunt assumenda.",
+      "img": "https://i.ibb.co/wJzn7V3/28.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Isaac Craig",
+      "address": "Dhaka",
+      "message": "Dolor sit lorem ipsum amet consectetur adipisicing elit. In qui delectus fugiat? Repellat sequi dignissimos, necessitatibus deleniti autem vitae, harum atque minima qui natus perferendis eligendi beatae magnam voluptates aliquid ut est nesciunt ipsum molestiae. Dolores vitae quis incidunt assumenda.",
+      "img": "https://i.ibb.co/BBX7qtR/31.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Winson Herry",
+      "address": "New York",
+      "message": "Amet consectetur lorem ipsum dolor sit adipisicing elit. In qui delectus fugiat? Repellat sequi dignissimos, necessitatibus deleniti autem vitae, harum atque minima qui natus perferendis eligendi beatae magnam voluptates aliquid ut est nesciunt ipsum molestiae. Dolores vitae quis incidunt assumenda.",
+      "img": "https://i.ibb.co/QptfvV2/40.jpg"
+    },
+    {
+      "id": 4,
+      "name": "John Herry",
+      "address": "California",
+      "message": "Lorem ipsum dolor sit amet consectetur adipisicing elit. In qui delectus fugiat? Repellat sequi dignissimos, necessitatibus deleniti autem vitae, harum atque minima qui natus perferendis eligendi beatae magnam voluptates aliquid ut est nesciunt ipsum molestiae. Dolores vitae quis incidunt assumenda.",
+      "img": "https://i.ibb.co/fxLrf22/61.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Peter Berry",
+      "address": "Beijing",
+      "message": "Dolor sit lorem ipsum amet consectetur adipisicing elit. In qui delectus fugiat? Repellat sequi dignissimos, necessitatibus deleniti autem vitae, harum atque minima qui natus perferendis eligendi beatae magnam voluptates aliquid ut est nesciunt ipsum molestiae. Dolores vitae quis incidunt assumenda.",
+      "img": "https://i.ibb.co/BykgPqJ/43.jpg"
+    }
+  ],
+
+  "blogsData": [
+    {
+      "id": 1,
+      "title": "Web 3.0 Platform",
+      "description": "Ipsum lorem sit amet consectetur adipisicing elit. In qui delectus fugiat? Repellat sequi dignissimos, necessitatibus deleniti autem vitae, harum atque minima qui natus perferendis eligendi beatae magnam voluptates aliquid ut est nesciunt ipsum molestiae. Dolores vitae quis incidunt assumenda.",
+      "img": "https://i.ibb.co/NxcKfzp/web30.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Big Data Management",
+      "description": "Dolor sit lorem ipsum amet consectetur adipisicing elit. In qui delectus fugiat? Repellat sequi dignissimos, necessitatibus deleniti autem vitae, harum atque minima qui natus perferendis eligendi beatae magnam voluptates aliquid ut est nesciunt ipsum molestiae. Dolores vitae quis incidunt assumenda.",
+      "img": "https://i.ibb.co/hYty39T/big-data.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Machine Code",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. In qui delectus fugiat? Repellat sequi dignissimos, necessitatibus deleniti autem vitae, harum atque minima qui natus perferendis eligendi beatae magnam voluptates aliquid ut est nesciunt ipsum molestiae. Dolores vitae quis incidunt assumenda.",
+      "img": "https://i.ibb.co/2k7QBq5/machine.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Web 3.0 Platform",
+      "description": "Ipsum lorem sit amet consectetur adipisicing elit. In qui delectus fugiat? Repellat sequi dignissimos, necessitatibus deleniti autem vitae, harum atque minima qui natus perferendis eligendi beatae magnam voluptates aliquid ut est nesciunt ipsum molestiae. Dolores vitae quis incidunt assumenda.",
+      "img": "https://i.ibb.co/NxcKfzp/web30.jpg"
+    },
+    {
+      "id": 5,
+      "title": "About Technology",
+      "description": "Dolor sit lorem ipsum amet consectetur adipisicing elit. In qui delectus fugiat? Repellat sequi dignissimos, necessitatibus deleniti autem vitae, harum atque minima qui natus perferendis eligendi beatae magnam voluptates aliquid ut est nesciunt ipsum molestiae. Dolores vitae quis incidunt assumenda.",
+      "img": "https://i.ibb.co/ThMdtJM/technology.jpg"
+    }
+  ],
+
+  "about": [
+    {
+      "id": "1",
+      "name": "Tracey Richmond",
+      "age": 38,
+      "company": "Prosure",
+      "email": "traceyrichmond@prosure.com",
+      "img": "https://i.ibb.co/9tRBwzR/about1.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Kane Rollins",
+      "age": 42,
+      "company": "Equicom",
+      "email": "kanerollins@equicom.com",
+      "img": "https://i.ibb.co/P6RMtHM/about2.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Brooks Bowers",
+      "age": 36,
+      "company": "Earthwax",
+      "email": "brooksbowers@earthwax.com",
+      "img": "https://i.ibb.co/sspbNq3/about3.jpg"
+    },
+    {
+      "id": "4",
+      "name": "Connie Britt",
+      "age": 37,
+      "company": "Asimiline",
+      "email": "conniebritt@asimiline.com",
+      "img": "https://i.ibb.co/XXnVsrr/about4.jpg"
+    },
+    {
+      "id": "5",
+      "name": "Kane Rollins",
+      "age": 42,
+      "company": "Equicom",
+      "email": "kanerollins@equicom.com",
+      "img": "https://i.ibb.co/pwtVmn1/photo-1600732235916-8b00410186ca.jpg"
+    }
+  ]
+}

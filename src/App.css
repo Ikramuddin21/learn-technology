@@ -1,0 +1,56 @@
+.custom-carousel-position {
+  top: 18%;
+}
+
+.custom-responsive-width {
+  width: 50%;
+}
+
+.custom-tag {
+  font-size: 15px;
+  transition: 0.4s;
+}
+
+.custom-tag:hover {
+  background-color: #157347;
+  color: white;
+}
+
+/* header */
+.navbar-toggler {
+  background: white !important;
+}
+
+@media only screen and (max-width: 1400px) {
+  .custom-blog-width {
+    width: 100%;
+  }
+}
+
+@media only screen and (min-width: 1400px) {
+  .custom-blog-width {
+    width: 50%;
+  }
+}
+
+@media only screen and (max-width: 1000px) {
+  .custom-responsive-width {
+    width: 80%;
+  }
+
+  .custom-carousel-position {
+    top: 15%;
+  }
+}
+
+@media only screen and (max-width: 700px) {
+  .custom-responsive-width {
+    width: 100%;
+  }
+}
+
+@media only screen and (max-width: 500px) {
+  .custom-carousel-position {
+    top: 8%;
+  }
+}
